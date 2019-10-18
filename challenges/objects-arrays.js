@@ -8,7 +8,7 @@
 
 // tyrannosaurus, carnivorous, 7000kg, 12m, Late Cretaceous
 const trex = {
-  name: 'Tyrannosourus',
+  name: 'tyrannosaurus',
   diet: 'carnivorous',
   weight: '7000kg',
   length: '12m',
