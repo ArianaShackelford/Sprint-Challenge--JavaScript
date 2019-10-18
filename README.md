@@ -42,7 +42,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 4. Describe the four rules of the 'this' keyword.
 
-    1) Global/Window binding - The value of `this` will be the window or console object.
+    1) Global/Window Binding - The value of `this` will be the window or console object.
 
     2) Implicit Binding - The object to the left of the dot gets `this`.
 
@@ -53,7 +53,7 @@ Edit this document to include your answers after each question. Make sure to lea
 5. Why do we need super() in an extended class?
 
     `super()` passes new attributes back up to the parent object. 
-    
+
 ## Project Set up
 
 Follow these steps to set up and work on your project:
